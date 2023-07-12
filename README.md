@@ -12,6 +12,6 @@ pip install -r requirements.txt
 The environment can be quickly installed on the target machine
 
 ## Run the code
-Directly run SSABN_demo.ipynb to reproduce the results on the Samson data and the Urban data.
+Directly run SSABN_demo.ipynb to reproduce the results on the Samson data.
 
-If you want to run the code in your own data, you can accordingly change the input (e.g., Datasets file) and tune the parameters. Please note that the shape of the input matrix.
+If you want to run the code on your own data, you can change the input accordingly, place the data under the Dataset folder, and tune the parameters. It is important to pay attention to the shape of the input matrix.
