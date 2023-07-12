@@ -8,6 +8,7 @@ The code was tested in the environment of Python 3.8 and tensorflow==2.4.1.
 Install requirements.txt dependency package (environment)
 ```python
 pip install -r requirements.txt
+```
 The environment can be quickly installed on the target machine
 
 ## Run the code
