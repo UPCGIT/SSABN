@@ -5,7 +5,7 @@ The code in this toolbox implements the "Spatial-spectral Attention Bilateral Ne
 ## System-specific notes
 The code was tested in the environment of `Python 3.8` and `tensorflow==2.4.1`.
 
-Install requirements.txt dependency package (environment)
+Install `requirements.txt` dependency package (environment)
 ```python
 pip install -r requirements.txt
 ```
